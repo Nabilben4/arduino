@@ -1,2 +1,2 @@
 streamlit == 1.29.0
-pybluez == 0.22
+subprocess32 == 3.5.4
